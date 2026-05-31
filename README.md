@@ -77,10 +77,12 @@
 ### 3. Скріншоти тестування
 
 #### Сторінка зі списком сутностей та зв'язаними даними (SQL JOIN)
-скрін1
+<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/d2b5c8fc-ef93-4b23-b472-9c5a4ae5157b" />
+
 
 #### Форма з помилками клієнтської валідації від Zod
-скрін2
+<img width="1920" height="1003" alt="image" src="https://github.com/user-attachments/assets/9c033cad-0762-4f99-8b02-995e786fee56" />
+
 
 #### Підтвердження HTTP-запитів через вкладку Network у DevTools
-скрін3
+<img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/0f58fd2a-912b-4857-a3b8-b120aa1f5190" />
